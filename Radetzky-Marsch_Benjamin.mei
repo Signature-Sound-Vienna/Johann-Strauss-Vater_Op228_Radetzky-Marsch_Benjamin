@@ -17,7 +17,7 @@
             <respStmt>
                <persName xml:id="Matthaeus_Pescoller" role="encoder">Matthäus Pescoller</persName>
                <persName xml:id="Delilah_Rammler" role="encoder">Delilah Rammler</persName>
-               <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
+               <persName xml:id="Werner_Goebl" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1053306199" role="encoder">Werner Goebl</persName>
                <persName xml:id="David_M_Weigl" role="encoder">David M. Weigl</persName>
             </respStmt>
             <publisher>
