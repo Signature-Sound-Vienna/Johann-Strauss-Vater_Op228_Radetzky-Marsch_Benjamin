@@ -17,7 +17,7 @@
             <respStmt>
                <persName xml:id="Matthaeus_Pescoller" role="encoder">Matthäus Pescoller</persName>
                <persName xml:id="Delilah_Rammler" role="encoder">Delilah Rammler</persName>
-               <persName xml:id="Werner_Goebl" role="encoder">Werner Goebl</persName>
+               <persName xml:id="Werner_Goebl" auth="GND" auth.uri="https://d-nb.info/gnd/" codedval="1053306199" role="encoder">Werner Goebl</persName>
                <persName xml:id="David_M_Weigl" role="encoder">David M. Weigl</persName>
             </respStmt>
             <publisher>
@@ -70,7 +70,7 @@
                               <keySig xml:id="karvh9n" sig="2s" />
                               <meterSig xml:id="m6ht4cn" count="2" sym="cut" unit="2" />
                            </staffDef>
-                           <staffDef xml:id="P2" n="2" lines="5" ppq="4">
+                           <staffDef xml:id="P2" n="2" lines="5" ppq="4" trans.diat="7" trans.semi="12">
                               <label xml:id="lwofxav">Piccolo</label>
                               <labelAbbr xml:id="l4twlfc">Picc.</labelAbbr>
                               <instrDef xml:id="i8uqohc" midi.channel="1" midi.instrnum="72" midi.volume="78%" />
@@ -225,7 +225,7 @@
                            <keySig xml:id="k4c4r3h" sig="2s" />
                            <meterSig xml:id="mul5wde" count="2" sym="cut" unit="2" />
                         </staffDef>
-                        <staffDef xml:id="P19" n="19" lines="5" ppq="4">
+                        <staffDef xml:id="P19" n="19" lines="5" ppq="4" trans.diat="-7" trans.semi="-12">
                            <label xml:id="l53m891">Kontrabass</label>
                            <labelAbbr xml:id="luhe5wj">Kb.</labelAbbr>
                            <instrDef xml:id="i2krgyd" midi.channel="10" midi.instrnum="43" midi.volume="78%" />
